@@ -1,5 +1,5 @@
 {
-  "users": [
+  "productos": [
     { "nombre": "Producto = Jugo", "unidades": "Unidades = 1", "precio": "$2.50" },
     { "nombre": "Producto = Azucar", "unidades": "Unidades = 2", "precio": "$3.00" },
     { "nombre": "Producto = Leche", "unidades": "Unidades = 3", "precio": "$5.00" },
