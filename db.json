@@ -1,10 +1,10 @@
 {
   "users": [
-    { "nombre": "Jugo", "unidades": "1", "precio": 25 },
-    { "nombre": "Azucar", "unidades": "2", "precio": 30 },
-    { "nombre": "Leche", "unidades": "3", "precio": 50 },
-    { "nombre": "Cebolla", "unidades": "3", "precio": 50 },
-    { "nombre": "Sal", "unidades": "3", "precio": 50 }
+    { "nombre": "Jugo", "unidades": 1, "precio": 25 },
+    { "nombre": "Azucar", "unidades": 2, "precio": 30 },
+    { "nombre": "Leche", "unidades": 3, "precio": 50 },
+    { "nombre": "Cebolla", "unidades": 3, "precio": 50 },
+    { "nombre": "Sal", "unidades": 3, "precio": 50 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
