@@ -1,10 +1,10 @@
 {
   "users": [
     { "nombre": "Producto = Jugo", "unidades": "Unidades = 1", "precio": "$2.50" },
-    { "nombre": "Azucar", "unidades": "Unidades = 2", "precio": "$3.00" },
-    { "nombre": "Leche", "unidades": "Unidades = 3", "precio": "$5.00" },
-    { "nombre": "Cebolla", "unidades": "Unidades = 2", "precio": "$1.00" },
-    { "nombre": "Sal", "unidades": "Unidades = 1", "precio": "$1.50" }
+    { "nombre": "Producto = Azucar", "unidades": "Unidades = 2", "precio": "$3.00" },
+    { "nombre": "Producto = Leche", "unidades": "Unidades = 3", "precio": "$5.00" },
+    { "nombre": "Producto = Cebolla", "unidades": "Unidades = 2", "precio": "$1.00" },
+    { "nombre": "Producto = Sal", "unidades": "Unidades = 1", "precio": "$1.50" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
